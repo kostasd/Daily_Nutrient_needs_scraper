@@ -45,7 +45,7 @@ These instructions will guide you through the process of setting up and running 
 
 ### How to use?
 
-From the terminal you can execute the script `human_nutrient_needs_scraper.py`
+From the terminal you can execute the script `human_nutrient_needs_scraper.py` by running:
 
 `python human_nutrient_needs_scraper.py`
 
